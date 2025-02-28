@@ -8,7 +8,7 @@
         <div class="section">
             <h2>📚 Learning Path</h2>
             <ul>
-                <li>Front End: HTML, CSS, React</li>
+                <li>Front End: HTML, CSS, React, Node.js</li>
                 <li>Back End: JavaScript</li>
                 <li>Data & Deployment: PostgreSQL, Docker, CI/CD, Git, Agile Development</li>
             </ul>
